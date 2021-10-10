@@ -349,18 +349,18 @@ h6 { font-size: 16px;}
 	overflow-y: auto;
 }
 
-.arrow{
-	width: 30px;
-	height: 30px;
-	cursor: pointer;
-	transition: .3s;
-}
+/*.arrow{*/
+/*	width: 30px;*/
+/*	height: 30px;*/
+/*	cursor: pointer;*/
+/*	transition: .3s;*/
+/*}*/
 
-.arrow:hover{
-	opacity: .5;
-	width: 35px;
-	height: 35px;
-}
+/*.arrow:hover{*/
+/*	opacity: .5;*/
+/*	width: 35px;*/
+/*	height: 35px;*/
+/*}*/
 
 
 
